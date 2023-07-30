@@ -1,4 +1,4 @@
-# Check-Weather-
+# Check-Weather
 > Weather Web Application
 -------------------------------
 **Weather Web Application**
